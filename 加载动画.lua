@@ -32,7 +32,7 @@ local CONFIG = {
 
 ContentProvider:PreloadAsync({
     CONFIG.LOGO_IMAGE,
-    "rbxassetid://5028857084"
+    "rbxassetid://115464709824070"
 })
 
 local screenGui = Instance.new("ScreenGui")
